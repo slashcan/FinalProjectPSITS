@@ -1,0 +1,70 @@
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Visual Studio 2015\Projects\Class\Dbsys\Dbsys\Dbsys\bin\Debug\Dbsys.exe.config
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Visual Studio 2015\Projects\Class\Dbsys\Dbsys\Dbsys\bin\Debug\Dbsys.exe
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Visual Studio 2015\Projects\Class\Dbsys\Dbsys\Dbsys\bin\Debug\Dbsys.pdb
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Visual Studio 2015\Projects\Class\Dbsys\Dbsys\Dbsys\obj\Debug\Dbsys.csprojResolveAssemblyReference.cache
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Visual Studio 2015\Projects\Class\Dbsys\Dbsys\Dbsys\obj\Debug\Dbsys.Properties.Resources.resources
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Visual Studio 2015\Projects\Class\Dbsys\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.GenerateResource.Cache
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Visual Studio 2015\Projects\Class\Dbsys\Dbsys\Dbsys\obj\Debug\Dbsys.exe
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Visual Studio 2015\Projects\Class\Dbsys\Dbsys\Dbsys\obj\Debug\Dbsys.pdb
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Visual Studio 2015\Projects\Class\Dbsys\Dbsys\Dbsys\obj\Debug\Dbsys.Frm_UserEntry.resources
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Visual Studio 2015\Projects\Class\Dbsys\Dbsys\Dbsys\obj\Debug\Dbsys.Frm_Login.resources
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\bin\Debug\Dbsys.exe.config
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.exe
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.pdb
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.csprojResolveAssemblyReference.cache
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.Frm_UserEntry.resources
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.Frm_Login.resources
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.Properties.Resources.resources
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.GenerateResource.Cache
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\bin\Debug\Dbsys.exe
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\bin\Debug\Dbsys.pdb
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\bin\Debug\EntityFramework.dll
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\bin\Debug\EntityFramework.xml
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Register.resources
+C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Admin_Dashboard.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\bin\Debug\Dbsys.exe.config
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\bin\Debug\Dbsys.exe
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\bin\Debug\Dbsys.pdb
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\bin\Debug\EntityFramework.dll
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\bin\Debug\EntityFramework.xml
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.AssemblyReference.cache
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.SuggestedBindingRedirects.cache
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Admin_Dashboard.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Register.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.Frm_UserEntry.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.Frm_Login.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.Properties.Resources.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.GenerateResource.cache
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.CoreCompileInputs.cache
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.CopyComplete
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.exe
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.pdb
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Payment_Form_Student.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Psits_DashBoard.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Student_Dashboard.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Add_Event.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Add_Misc.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\DbSys31-main\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Student_Status.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\bin\Debug\Dbsys.exe.config
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\bin\Debug\Dbsys.exe
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\bin\Debug\Dbsys.pdb
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\bin\Debug\EntityFramework.dll
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\bin\Debug\EntityFramework.xml
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.AssemblyReference.cache
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.SuggestedBindingRedirects.cache
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Add_Event.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Add_Misc.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Admin_Dashboard.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Payment_Form_Student.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Psits_DashBoard.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Register.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Student_Dashboard.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Student_Status.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.Frm_UserEntry.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.Frm_Login.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.Properties.Resources.resources
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.GenerateResource.cache
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.CoreCompileInputs.cache
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.CopyComplete
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.exe
+C:\Users\slash\OneDrive\Desktop\DbSys31-main\PSITS\Dbsys\Dbsys\obj\Debug\Dbsys.pdb
